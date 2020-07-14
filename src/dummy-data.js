@@ -54,6 +54,36 @@ const dummyData = [
             },
         ],
     },
+    {
+        id: 3,
+        username: "Bob Ross",
+        thumbnailUrl: 'https://icon2.cleanpng.com/20180320/sqe/kisspng-twitch-computer-icons-streaming-media-youtube-live-tv-twitch-icon-5ab19172461392.001176751521586546287.jpg',
+        imageUrl: 'https://images.unsplash.com/photo-1594709589045-8fbc49be45c1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80',
+        likes: 9998,
+        timestamp: "July 20th 2020, 03:12:09 pm",
+        comments: [
+            {
+                id: 36,
+                username: "morebobrossplease",
+                text: "You can go anywhere you choose.",
+            },
+            {
+                id: 37,
+                username: "kingofbobross",
+                text: "There are no limits in this world.",
+            },
+            {
+                id: 38,
+                username: "bob_rosslover91",
+                text: "Happy little clouds in our world.",
+            },
+            {
+                id: 39,
+                username: "bobross_bestfriend",
+                text: "Clouds are free they come and go as they please.",
+            },
+        ],
+    },
 ];
 
 export default dummyData;
